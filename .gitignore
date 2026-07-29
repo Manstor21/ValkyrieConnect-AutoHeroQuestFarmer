@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Entorno / IDE
+.vscode/
+.idea/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Capturas de pantalla de prueba / templates personales
+# (descomenta la siguiente linea si NO quieres subir tus templates,
+# por ejemplo si contienen datos de tu partida que prefieras no compartir)
+# templates/
+# gui_templates/
