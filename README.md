@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Preview.png" alt="Valkyrie Connect - Auto Hero Quest Farmer">
+  <img src="assets/2.png" alt="Valkyrie Connect - Auto Hero Quest Farmer">
 </p>
 
 # Valkyrie Connect - Auto Hero Quest Farmer
@@ -79,7 +79,7 @@ python interfaz_valkyrie.py
 ```
 
 <p align="center">
-  <img src="assets/2.png" alt="GUI screenshot - Usage example">
+  <img src="assets/Preview.png" alt="GUI screenshot - Usage example">
 </p>
 
 1. Open the hero selection menu in-game.
