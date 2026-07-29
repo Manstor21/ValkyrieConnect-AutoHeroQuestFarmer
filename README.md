@@ -39,13 +39,13 @@ Image-recognition automation for **Hero Quests** in Valkyrie Connect (desktop ve
 - Duplicate-hero protection after scrolling via perceptual hashing (no OCR/Tesseract required).
 - Optional Tkinter GUI with live stats (heroes farmed, estimated diamonds, elapsed time).
 - Global stop hotkey (F8) that works even while the game window has focus.
-- Graceful stop: in-flight waits (battle results, chest animations, node resolution) are interrupted promptly.
+
 
 ## Requirements
 
 - Python 3.9 or later
 - Valkyrie Connect running in windowed mode (not fullscreen)
-- Your own screenshots from your game session, used to build the template images
+- Template images included in the repository.
 
 ## Installation
 
