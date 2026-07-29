@@ -78,10 +78,6 @@ The bot is entirely image-driven. You need to capture your own reference images 
 python interfaz_valkyrie.py
 ```
 
-<p align="center">
-  <img src="assets/Preview.png" alt="GUI screenshot - Usage example">
-</p>
-
 1. Open the hero selection menu in-game.
 2. Press **PLAY** in the interface.
 3. You have 5 seconds to switch focus to the game window.
