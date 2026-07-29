@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Preview.png" alt="Valkyrie Connect - Auto Hero Quest Farmer">
+</p>
+
 # Valkyrie Connect - Auto Hero Quest Farmer
 
 **Version 1.0.0**
@@ -73,6 +77,10 @@ The bot is entirely image-driven. You need to capture your own reference images 
 ```bash
 python interfaz_valkyrie.py
 ```
+
+<p align="center">
+  <img src="assets/2.png" alt="GUI screenshot - Usage example">
+</p>
 
 1. Open the hero selection menu in-game.
 2. Press **PLAY** in the interface.
