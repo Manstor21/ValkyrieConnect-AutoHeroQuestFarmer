@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="assets/2.png" alt="Valkyrie Connect - Auto Hero Quest Farmer">
-</p>
-
 # Valkyrie Connect - Auto Hero Quest Farmer
 
 **Version 1.0.0**
+
+<p align="center">
+  <img src="assets/2.png" alt="Valkyrie Connect - Auto Hero Quest Farmer">
+</p>
 
 Image-recognition automation for **Hero Quests** in Valkyrie Connect (desktop version). The bot navigates the hero selection menu, clears each hero's node route (story scenes + battles), and claims the final reward chests automatically. No memory access or game modification of any kind — everything is driven purely by what's on screen.
 
