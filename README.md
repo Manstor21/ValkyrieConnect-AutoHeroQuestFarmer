@@ -10,8 +10,9 @@
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-9C59B6)](https://docs.python.org/3/library/tkinter.html)
 
 <p align="center">
-  <img src="assets/2.png" alt="Valkyrie Connect - Auto Hero Quest Farmer">
+  <img src="assets/2.png" alt="Valkyrie Connect - Auto Hero Quest Farmer (imagen generada por IA)">
 </p>
+<p align="center"><em>**(Imagen generada por IA — ilustrativa, no es captura real del bot en funcionamiento)**</em></p>
 
 Image-recognition automation for **Hero Quests** in Valkyrie Connect (desktop version). The bot navigates the hero selection menu, clears each hero's node route (story scenes + battles), and claims the final reward chests automatically. No memory access or game modification of any kind — everything is driven purely by what's on screen.
 
