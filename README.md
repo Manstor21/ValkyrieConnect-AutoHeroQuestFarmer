@@ -2,6 +2,13 @@
 
 **Version 1.0.0**
 
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-3776ab)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-vision-5C3EE8)](https://opencv.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-imaging-013243)](https://numpy.org/)
+[![pyautogui](https://img.shields.io/badge/pyautogui-automation-FF4B00)](https://pyautogui.readthedocs.io/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-9C59B6)](https://docs.python.org/3/library/tkinter.html)
+
 <p align="center">
   <img src="assets/2.png" alt="Valkyrie Connect - Auto Hero Quest Farmer">
 </p>
